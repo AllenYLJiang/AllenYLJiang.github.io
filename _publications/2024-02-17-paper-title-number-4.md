@@ -6,7 +6,7 @@ excerpt: 'In this paper, we propose a novel framework for multi-person pose esti
 **Code available at: https://github.com/AllenYLJiang/Multi-person-Pose-Tracking** '
 date: 2024-02-17
 venue: 'IEEE Transactions on Image Processing'
-paperurl: 'Multi-person Pose Tracking with Sparse Key-point Flow Estimation and Hierarchical Graph Distance Minimization.pdf'
+paperurl: 'Multi-Person_Pose_Tracking_With_Sparse_Key-Point_Flow_Estimation_and_Hierarchical_Graph_Distance_Minimization.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
