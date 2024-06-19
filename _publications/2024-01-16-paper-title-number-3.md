@@ -6,7 +6,7 @@ excerpt: 'Video anomaly detection is a challenging task due to the unpredictable
 **Code available at: https://github.com/AllenYLJiang/Anomaly-Detection-in-Sequences** '
 date: 2024-01-09
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
-paperurl: 'http://academicpages.github.io/files/Reasonable Anomaly Detection Based on Long-term Sequence Modeling.pdf'
+paperurl: 'Reasonable Anomaly Detection Based on Long-term Sequence Modeling.pdf'
 citation: 'Yalong Jiang, Changkang Li, Wenrui Ding, Jinzhi Xiang and Zheru Chi. "Reasonable Anomaly Detection Based on Long-term Sequence Modeling." in IEEE Transactions on Circuits and Systems for Video Technology, 2024.' 
 ---
 
