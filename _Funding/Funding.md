@@ -1,6 +1,6 @@
 ---
-title: "Funding 1"
-excerpt: "National Natural Science Foundation of China 1<br/><img src='/images/500x300.png'>"
+title: "Multi-target Anomaly Detection using Drone-based platforms with Invariant Physical Rules Embedded"
+excerpt: "National Natural Science Foundation of China <br/><img src='/images/500x300.png'>"
 collection: Funding
 ---
 
