@@ -7,7 +7,7 @@ excerpt: 'In this paper, we propose a novel framework for multi-person pose esti
 date: 2024-02-17
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 'Multi-Person_Pose_Tracking_With_Sparse_Key-Point_Flow_Estimation_and_Hierarchical_Graph_Distance_Minimization.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Y. Jiang, W. Ding, H. Li and Z. Chi, "Multi-Person Pose Tracking With Sparse Key-Point Flow Estimation and Hierarchical Graph Distance Minimization," in IEEE Transactions on Image Processing, vol. 33, pp. 3590-3605, 2024.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
