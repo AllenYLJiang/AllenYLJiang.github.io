@@ -7,8 +7,7 @@ excerpt: "Sponsored by National Natural Science Foundation of China (NSFC)
 <br/><img src='/images/Feedback.png'>
 <br/> We have built comprehensive datasets for evaluations. 
 <br/><img src='/images/Experiments.jpg'>
-<br/> Besides, we have deployed some algorithms on platforms such as ZCU-102 and NVIDIA-orion. 
-<br/><img src='/images/Experiments.jpg'>"
+<br/> Besides, we have deployed some algorithms on platforms such as ZCU-102 and NVIDIA-orion. "
 collection: Research Projects 
 ---
 
