@@ -1,6 +1,6 @@
 ---
 title: "Multi-target Anomaly Detection using Drone-based platforms with Invariant Physical Rules Embedded"
-excerpt: "National Natural Science Foundation of China <br/><img src='/images/500x300.png'>"
+excerpt: "Sponsored by National Natural Science Foundation of China <br/><img src='/images/500x300.png'>"
 collection: Funding
 ---
 
